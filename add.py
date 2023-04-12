@@ -1,3 +1,3 @@
-a = int(input('left number:'))
-b = int(input('+ number:'))
+a = int(input('input number:'))
+b = int(input('+'))
 print(a + b)
